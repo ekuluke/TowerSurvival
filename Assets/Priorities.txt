@@ -1,0 +1,31 @@
+EASY STUFF FIRST; YOU'RE LEARNING TO CODE AND DO ART. DON'T WASTE TIME ATTEMPTING THE HARD IN THE BEGGINING WHEN YOU PROBABLY WON'T GET A 
+GOOD RESULT AND BE FORCED TO REFACTOR A LOT.
+
+<Affected people> x (<Joy added> + <Sorrow removed>) / <Time to implement>
+Or a simpler version <Increase in sales> / <Time to implement>.
+
+Question mark: For any task that I'll need to think about—either a design question, or how to implement it.
+Arrows: For any tasks that are linked in logic or in code. These will likely be implemented at the same time.
+Slash: When I have two options that I'll need to choose between, I'll link them with a slash.
+Swear words: For anything that I dread and don't want to do. This serves no valid purpose, but it makes me feel good.
+
+HARD
+Features
+-Dynamic Tile cracking, possibly using exploadable or something else(MBD)
+-Performance metrics and optimizaiton(MBD)
+-Heat System(VERY nice to have, hardish to implement)
+MEDIUM
+Features
+-Basic, simple, easy to understand energy system.(MBD)
+-Projectile AI, shaders, logic.(MBD) 
+-Room System(MBD)
+-Ladders, Courier Movements/pathfinding(MBD)
+-Movement/organisation of goods(MBD)
+-Event system(char stuck, dead, block broken, etc, etc)(MBD)
+
+EASY
+-grid lock/snap(mbd)
+-basic shape menu and shapes(mbd)
+-
+
+Features
